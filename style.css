@@ -1,0 +1,11 @@
+.container{
+    justify-items: center;
+    width: 30%;
+}
+button{
+    width: 100% !important;
+    height: 50px !important;
+}
+.alert, b{
+    font-size: 25px;
+}
